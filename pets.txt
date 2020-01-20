@@ -3,3 +3,6 @@ cats
 dogs
 goldfish
 rabbit
+buffalo
+frog
+snake
