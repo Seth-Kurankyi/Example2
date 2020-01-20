@@ -3,3 +3,4 @@ cats
 dogs
 goldfish
 rabbit
+squirrel
