@@ -4,3 +4,7 @@ dogs
 goldfish
 rabbit
 squirrel
+buffalo
+frog
+snake
+
